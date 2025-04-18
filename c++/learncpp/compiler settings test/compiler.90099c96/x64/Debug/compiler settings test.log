@@ -1,0 +1,3 @@
+﻿  compiler settings test.cpp
+C:\Users\ebyd2\Documents\coding projects\learncpp\compiler settings test\compiler settings test.cpp(8,9): warning C4365: 'argument': conversion from 'unsigned int' to 'int', signed/unsigned mismatch
+  compiler settings test.vcxproj -> C:\Users\ebyd2\Documents\coding projects\learncpp\compiler settings test\x64\Debug\compiler settings test.exe
