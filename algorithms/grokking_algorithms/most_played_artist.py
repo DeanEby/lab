@@ -9,6 +9,7 @@ artists = [
     ]
 
 # The first method described, finding the max value in the list repeatedly until the list is sorted.
+# Apparently this is the selection sort algorithm
 def method1(in_list: list):
     sorted_list = []
     in_list_og_length = len(in_list)
